@@ -1,10 +1,10 @@
-05.13 : 내장 입력, 충력
+#05.13 : 내장 입력, 충력
 입력 : input () => 정수 (int), 실수 (float)를 입력 할 때 형변환하기
 출력 : orint () f-string
 if 문 : + if ... : 명령문 elif ... : 명령문 else :
 for 문 : 반복문 => renge ()
 동안 문
-05.14 (python02, igynb)
+#05.14 (python02, igynb)
 컬렉션 자료형 : 순서 있는지, 없는지
 공유 (str) : 문자들의 모임
 (list) : 요소들의리스트 모임
